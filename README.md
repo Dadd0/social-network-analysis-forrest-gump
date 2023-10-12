@@ -32,9 +32,9 @@ Depending on what seems more relevant in your graph, pick one of the following l
 
 2) Discuss why you picked this measure and who is the most central in your network based on your choice.
 
-3) Provide the cumulative distribution for this centrality or the histogram and give a graphical representation of your graph (log-log, log or normal representation as you think it is more relevant). 
+3) Provide the cumulative distribution for this centrality or the histogram and give a graphical representation of your graph (log-log, log or normal representation as you think it is more relevant).
 
-## Week 5
+## Week 5
 1) Write a function to compute the PageRank of the nodes in a graph (you are not allowed to use built-in functions from NetworkX).
 
 2) Run it on your graph using α = 0.15, save the total number of iterations, and check that your function returns the same results (in terms of the scores) as the built-in function from NetworkX.
