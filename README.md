@@ -47,3 +47,15 @@ Depending on what seems more relevant in your graph, pick one of the following l
 
 Hint: treat weighted graphs as unweighted & links in undirected graphs as doubly directed (each undirected link becomes a directed link in both directions).
 Additionally, make sure you run the PageRank algorithm on a connected graph.
+
+## Week 6
+0) Treat your graph as undirected and unweighted. Delete loops and work on the resulting largest
+connected component.
+1) Implement the following three techniques for community detection:
+a) Bridge removal (pick the partition with the highest modularity), b) Modularity optimization, c) Label
+propagation.
+In this case, you are allowed to use built-in functions from NetworkX.
+2) Compare the results of each technique in terms of: a) number of detected clusters, b) cluster sizedistribution, c) computational time, e) modularity, f) other aspects you consider relevant, if any. Resultsshould be presented in a table.
+3) Give an interpretation to the differences and similarities between the three resulting partitions, anddiscuss which one you think is the best and why.
+4) Provide a visualization for the partition you decided to be the best using Gephi.
+5) Optional: for each pair of partitions compute the NMI between them and discuss.
