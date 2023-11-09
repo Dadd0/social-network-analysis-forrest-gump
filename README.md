@@ -59,3 +59,17 @@ In this case, you are allowed to use built-in functions from NetworkX.
 3) Give an interpretation to the differences and similarities between the three resulting partitions, anddiscuss which one you think is the best and why.
 4) Provide a visualization for the partition you decided to be the best using Gephi.
 5) Optional: for each pair of partitions compute the NMI between them and discuss.
+
+## Week 7
+
+0) Treat your graph as undirected and unweighted, and work on the resulting largest connected
+component. Delete loops
+1) Create a function computing CN and one of the topological indices between JI,PA,AA,RA.
+Your function should return a pandaframe where each row is a missing link and each column is
+an index. You are allowed to use built-in functions from NetworkX for computing individual
+indices.
+2) Create a third score by adding a column with the arithmetic mean between the two indices.
+[NB: the arithmetic mean should be computed after rescaling each column between 0 and 1.]
+3) For each of the 3 scores, identify as missing links the node pairs yielding the largest 5 values.
+Briefly comment the results.
+4) Optional: Invent a new index/score and compare the result
