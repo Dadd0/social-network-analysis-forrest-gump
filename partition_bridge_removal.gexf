@@ -1,0 +1,756 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-09">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Community_mod" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0" label="ABBIE HOFFMAN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1" label="AGING HIPPIE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2" label="ANCHORMAN">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3" label="ANNOUNCER">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="4" label="ANOTHER DAY">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="5" label="ASSISTANT COACH">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="6" label="BERT">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="7" label="BILLY">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="8" label="BLACK PANTHER">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="9" label="BLACK WOMAN">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="10" label="BOB HOPE">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="11" label="BOY">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="12" label="BOY #1">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="13" label="BOY #2">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="14" label="BOY #3">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="15" label="BUBBA">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="16" label="BUS DRIVER">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="17" label="BUS STOP - PRESENT - DAY">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="18" label="CAB DRIVER">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="19" label="CARLA">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="20" label="CHET HUNTLEY">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="21" label="DALLAS">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="22" label="DEAN">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="23" label="DICK CAVETT">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="24" label="DICK CLARK">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="25" label="DJ">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="26" label="DOCTOR">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="27" label="DRILL SERGEANT">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="28" label="DRIVER">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="29" label="EARL">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="30" label="ELDERLY WOMAN">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="31" label="ELVIS">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="32" label="EMCEE">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="33" label="ERNIE">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="34" label="FOOTBALL COACH">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="35" label="FORREST">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="36" label="FORREST JR">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="37" label="GIRL">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="38" label="GOVERNOR WALLACE">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="39" label="HILARY">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="40" label="ISABEL">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="41" label="JENNY">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="42" label="JENNY'S DAD">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="43" label="JOHN LENNON">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="44" label="KATZENBACH">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="45" label="LENORE">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="46" label="LITTLE BOY">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="47" label="LOUISE">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="48" label="LT DAN">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="49" label="LYNN MARIE">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="50" label="MALE NURSE">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="51" label="MAN">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="52" label="MAN #">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="53" label="MAN #1">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="54" label="MAN #2">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="55" label="MAN #3">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="56" label="MAN #5">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="57" label="MARGO">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="58" label="MASAI">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="59" label="MEN">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="60" label="MINISTER">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="61" label="MRS BLUE">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="62" label="MRS GUMP">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="63" label="NEWSCASTER">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="64" label="NEWSMAN">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="65" label="NIGHT">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="66" label="NURSE">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="67" label="OFFICER">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="68" label="OLD SHRIMPER">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="69" label="OLDER BOY">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="70" label="OLDER BOY #1">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="71" label="OLDER BOY #2">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="72" label="PATRONS">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="73" label="POLICEMAN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="74" label="PRESIDENT JOHNSON">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="75" label="PRESIDENT KENNEDY">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </node>
+      <node id="76" label="PRESIDENT NIXON">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="77" label="PRINCIPAL">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="78" label="REPORTER">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="79" label="REVEREND">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="80" label="RUBEN">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="81" label="SECURITY GUARD">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="82" label="SGT SIMS">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="83" label="SLOW MOTION">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="84" label="SOLDIER">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="85" label="SONG">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="86" label="STRONGARM">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="87" label="SUSAN">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="88" label="VET">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="89" label="WESLEY">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="90" label="WHITE WOMAN">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="91" label="WILD-EYED MAN">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </node>
+      <node id="92" label="YOUNG HIPPIE">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="93" label="YOUNG MAN">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="41" id="0" weight="1" />
+      <edge source="0" target="73" id="1" weight="1" />
+      <edge source="0" target="35" id="2" weight="1" />
+      <edge source="0" target="39" id="3" weight="1" />
+      <edge source="0" target="40" id="4" weight="1" />
+      <edge source="0" target="88" id="5" weight="1" />
+      <edge source="1" target="35" id="6" weight="1" />
+      <edge source="2" target="35" id="7" weight="3" />
+      <edge source="2" target="48" id="8" weight="1" />
+      <edge source="2" target="57" id="9" weight="1" />
+      <edge source="2" target="62" id="10" weight="1" />
+      <edge source="2" target="74" id="11" weight="1" />
+      <edge source="3" target="35" id="12" weight="2" />
+      <edge source="3" target="41" id="13" weight="1" />
+      <edge source="3" target="48" id="14" weight="1" />
+      <edge source="3" target="84" id="15" weight="1" />
+      <edge source="4" target="15" id="16" weight="1" />
+      <edge source="4" target="65" id="17" weight="1" />
+      <edge source="4" target="85" id="18" weight="1" />
+      <edge source="4" target="27" id="19" weight="1" />
+      <edge source="4" target="35" id="20" weight="1" />
+      <edge source="5" target="34" id="21" weight="1" />
+      <edge source="5" target="35" id="22" weight="1" />
+      <edge source="5" target="20" id="23" weight="1" />
+      <edge source="6" target="33" id="24" weight="1" />
+      <edge source="6" target="36" id="25" weight="1" />
+      <edge source="6" target="35" id="26" weight="1" />
+      <edge source="6" target="41" id="27" weight="1" />
+      <edge source="6" target="46" id="28" weight="1" />
+      <edge source="6" target="49" id="29" weight="1" />
+      <edge source="7" target="9" id="30" weight="1" />
+      <edge source="7" target="35" id="31" weight="1" />
+      <edge source="7" target="41" id="32" weight="1" />
+      <edge source="7" target="90" id="33" weight="1" />
+      <edge source="8" target="35" id="34" weight="1" />
+      <edge source="8" target="41" id="35" weight="1" />
+      <edge source="8" target="58" id="36" weight="1" />
+      <edge source="8" target="80" id="37" weight="1" />
+      <edge source="8" target="89" id="38" weight="1" />
+      <edge source="9" target="41" id="39" weight="1" />
+      <edge source="9" target="90" id="40" weight="1" />
+      <edge source="9" target="35" id="41" weight="2" />
+      <edge source="10" target="48" id="42" weight="1" />
+      <edge source="10" target="35" id="43" weight="1" />
+      <edge source="11" target="41" id="44" weight="1" />
+      <edge source="11" target="70" id="45" weight="1" />
+      <edge source="12" target="13" id="46" weight="2" />
+      <edge source="12" target="14" id="47" weight="2" />
+      <edge source="12" target="35" id="48" weight="2" />
+      <edge source="12" target="41" id="49" weight="1" />
+      <edge source="12" target="83" id="50" weight="1" />
+      <edge source="13" target="14" id="51" weight="2" />
+      <edge source="13" target="35" id="52" weight="2" />
+      <edge source="13" target="41" id="53" weight="1" />
+      <edge source="13" target="83" id="54" weight="1" />
+      <edge source="14" target="35" id="55" weight="2" />
+      <edge source="14" target="41" id="56" weight="1" />
+      <edge source="14" target="83" id="57" weight="1" />
+      <edge source="15" target="21" id="58" weight="1" />
+      <edge source="15" target="51" id="59" weight="1" />
+      <edge source="15" target="65" id="60" weight="1" />
+      <edge source="15" target="82" id="61" weight="2" />
+      <edge source="15" target="84" id="62" weight="1" />
+      <edge source="15" target="86" id="63" weight="1" />
+      <edge source="15" target="27" id="64" weight="1" />
+      <edge source="15" target="35" id="65" weight="6" />
+      <edge source="15" target="48" id="66" weight="1" />
+      <edge source="15" target="85" id="67" weight="2" />
+      <edge source="16" target="35" id="68" weight="1" />
+      <edge source="16" target="62" id="69" weight="1" />
+      <edge source="17" target="23" id="70" weight="1" />
+      <edge source="17" target="43" id="71" weight="1" />
+      <edge source="17" target="35" id="72" weight="2" />
+      <edge source="18" target="41" id="73" weight="1" />
+      <edge source="19" target="35" id="74" weight="1" />
+      <edge source="19" target="48" id="75" weight="1" />
+      <edge source="19" target="24" id="76" weight="1" />
+      <edge source="19" target="45" id="77" weight="2" />
+      <edge source="20" target="34" id="78" weight="1" />
+      <edge source="20" target="35" id="79" weight="1" />
+      <edge source="20" target="38" id="80" weight="1" />
+      <edge source="21" target="51" id="81" weight="1" />
+      <edge source="21" target="86" id="82" weight="1" />
+      <edge source="21" target="35" id="83" weight="1" />
+      <edge source="21" target="48" id="84" weight="1" />
+      <edge source="21" target="82" id="85" weight="1" />
+      <edge source="21" target="84" id="86" weight="1" />
+      <edge source="21" target="85" id="87" weight="1" />
+      <edge source="22" target="35" id="88" weight="1" />
+      <edge source="22" target="62" id="89" weight="1" />
+      <edge source="23" target="43" id="90" weight="1" />
+      <edge source="23" target="35" id="91" weight="1" />
+      <edge source="24" target="35" id="92" weight="2" />
+      <edge source="24" target="45" id="93" weight="1" />
+      <edge source="24" target="48" id="94" weight="1" />
+      <edge source="25" target="35" id="95" weight="1" />
+      <edge source="25" target="41" id="96" weight="1" />
+      <edge source="26" target="35" id="97" weight="1" />
+      <edge source="26" target="62" id="98" weight="1" />
+      <edge source="27" target="35" id="99" weight="1" />
+      <edge source="27" target="65" id="100" weight="1" />
+      <edge source="27" target="85" id="101" weight="1" />
+      <edge source="28" target="35" id="102" weight="1" />
+      <edge source="28" target="41" id="103" weight="1" />
+      <edge source="29" target="35" id="104" weight="1" />
+      <edge source="29" target="44" id="105" weight="1" />
+      <edge source="30" target="35" id="106" weight="4" />
+      <edge source="30" target="51" id="107" weight="1" />
+      <edge source="31" target="62" id="108" weight="1" />
+      <edge source="31" target="35" id="109" weight="2" />
+      <edge source="32" target="41" id="110" weight="1" />
+      <edge source="32" target="52" id="111" weight="1" />
+      <edge source="32" target="53" id="112" weight="1" />
+      <edge source="32" target="54" id="113" weight="1" />
+      <edge source="32" target="55" id="114" weight="1" />
+      <edge source="32" target="56" id="115" weight="1" />
+      <edge source="32" target="59" id="116" weight="1" />
+      <edge source="32" target="35" id="117" weight="1" />
+      <edge source="33" target="36" id="118" weight="1" />
+      <edge source="33" target="35" id="119" weight="1" />
+      <edge source="33" target="41" id="120" weight="1" />
+      <edge source="33" target="46" id="121" weight="1" />
+      <edge source="33" target="49" id="122" weight="1" />
+      <edge source="34" target="35" id="123" weight="3" />
+      <edge source="34" target="69" id="124" weight="1" />
+      <edge source="35" target="39" id="125" weight="1" />
+      <edge source="35" target="40" id="126" weight="1" />
+      <edge source="35" target="42" id="127" weight="1" />
+      <edge source="35" target="43" id="128" weight="1" />
+      <edge source="35" target="46" id="129" weight="1" />
+      <edge source="35" target="49" id="130" weight="1" />
+      <edge source="35" target="50" id="131" weight="1" />
+      <edge source="35" target="51" id="132" weight="2" />
+      <edge source="35" target="52" id="133" weight="1" />
+      <edge source="35" target="53" id="134" weight="1" />
+      <edge source="35" target="54" id="135" weight="1" />
+      <edge source="35" target="55" id="136" weight="1" />
+      <edge source="35" target="56" id="137" weight="1" />
+      <edge source="35" target="58" id="138" weight="1" />
+      <edge source="35" target="59" id="139" weight="1" />
+      <edge source="35" target="61" id="140" weight="2" />
+      <edge source="35" target="63" id="141" weight="2" />
+      <edge source="35" target="65" id="142" weight="1" />
+      <edge source="35" target="66" id="143" weight="1" />
+      <edge source="35" target="68" id="144" weight="2" />
+      <edge source="35" target="70" id="145" weight="1" />
+      <edge source="35" target="71" id="146" weight="1" />
+      <edge source="35" target="73" id="147" weight="1" />
+      <edge source="35" target="75" id="148" weight="1" />
+      <edge source="35" target="77" id="149" weight="1" />
+      <edge source="35" target="80" id="150" weight="1" />
+      <edge source="35" target="86" id="151" weight="1" />
+      <edge source="35" target="87" id="152" weight="1" />
+      <edge source="35" target="88" id="153" weight="1" />
+      <edge source="35" target="89" id="154" weight="2" />
+      <edge source="35" target="90" id="155" weight="1" />
+      <edge source="35" target="91" id="156" weight="1" />
+      <edge source="35" target="92" id="157" weight="1" />
+      <edge source="35" target="93" id="158" weight="1" />
+      <edge source="35" target="36" id="159" weight="1" />
+      <edge source="35" target="37" id="160" weight="1" />
+      <edge source="35" target="41" id="161" weight="17" />
+      <edge source="35" target="44" id="162" weight="1" />
+      <edge source="35" target="45" id="163" weight="1" />
+      <edge source="35" target="47" id="164" weight="2" />
+      <edge source="35" target="48" id="165" weight="9" />
+      <edge source="35" target="60" id="166" weight="1" />
+      <edge source="35" target="62" id="167" weight="9" />
+      <edge source="35" target="64" id="168" weight="2" />
+      <edge source="35" target="67" id="169" weight="2" />
+      <edge source="35" target="69" id="170" weight="1" />
+      <edge source="35" target="72" id="171" weight="1" />
+      <edge source="35" target="74" id="172" weight="1" />
+      <edge source="35" target="76" id="173" weight="1" />
+      <edge source="35" target="78" id="174" weight="1" />
+      <edge source="35" target="79" id="175" weight="1" />
+      <edge source="35" target="81" id="176" weight="1" />
+      <edge source="35" target="82" id="177" weight="3" />
+      <edge source="35" target="83" id="178" weight="1" />
+      <edge source="35" target="84" id="179" weight="2" />
+      <edge source="35" target="85" id="180" weight="3" />
+      <edge source="36" target="41" id="181" weight="1" />
+      <edge source="36" target="46" id="182" weight="1" />
+      <edge source="36" target="49" id="183" weight="1" />
+      <edge source="37" target="41" id="184" weight="1" />
+      <edge source="38" target="64" id="185" weight="1" />
+      <edge source="39" target="41" id="186" weight="1" />
+      <edge source="39" target="73" id="187" weight="1" />
+      <edge source="39" target="88" id="188" weight="1" />
+      <edge source="39" target="40" id="189" weight="1" />
+      <edge source="40" target="41" id="190" weight="1" />
+      <edge source="40" target="73" id="191" weight="1" />
+      <edge source="40" target="88" id="192" weight="1" />
+      <edge source="41" target="42" id="193" weight="1" />
+      <edge source="41" target="46" id="194" weight="1" />
+      <edge source="41" target="48" id="195" weight="1" />
+      <edge source="41" target="49" id="196" weight="1" />
+      <edge source="41" target="52" id="197" weight="1" />
+      <edge source="41" target="53" id="198" weight="1" />
+      <edge source="41" target="54" id="199" weight="1" />
+      <edge source="41" target="55" id="200" weight="1" />
+      <edge source="41" target="56" id="201" weight="1" />
+      <edge source="41" target="58" id="202" weight="1" />
+      <edge source="41" target="59" id="203" weight="1" />
+      <edge source="41" target="71" id="204" weight="1" />
+      <edge source="41" target="83" id="205" weight="1" />
+      <edge source="41" target="87" id="206" weight="1" />
+      <edge source="41" target="89" id="207" weight="2" />
+      <edge source="41" target="92" id="208" weight="1" />
+      <edge source="41" target="47" id="209" weight="1" />
+      <edge source="41" target="60" id="210" weight="1" />
+      <edge source="41" target="63" id="211" weight="1" />
+      <edge source="41" target="64" id="212" weight="1" />
+      <edge source="41" target="70" id="213" weight="2" />
+      <edge source="41" target="73" id="214" weight="1" />
+      <edge source="41" target="80" id="215" weight="1" />
+      <edge source="41" target="88" id="216" weight="1" />
+      <edge source="41" target="90" id="217" weight="1" />
+      <edge source="45" target="48" id="218" weight="1" />
+      <edge source="46" target="49" id="219" weight="1" />
+      <edge source="47" target="48" id="220" weight="1" />
+      <edge source="47" target="87" id="221" weight="1" />
+      <edge source="47" target="60" id="222" weight="1" />
+      <edge source="47" target="62" id="223" weight="1" />
+      <edge source="47" target="63" id="224" weight="1" />
+      <edge source="48" target="51" id="225" weight="1" />
+      <edge source="48" target="82" id="226" weight="5" />
+      <edge source="48" target="86" id="227" weight="1" />
+      <edge source="48" target="87" id="228" weight="1" />
+      <edge source="48" target="57" id="229" weight="1" />
+      <edge source="48" target="60" id="230" weight="1" />
+      <edge source="48" target="84" id="231" weight="1" />
+      <edge source="48" target="85" id="232" weight="3" />
+      <edge source="50" target="84" id="233" weight="1" />
+      <edge source="51" target="82" id="234" weight="1" />
+      <edge source="51" target="84" id="235" weight="1" />
+      <edge source="51" target="85" id="236" weight="1" />
+      <edge source="51" target="86" id="237" weight="1" />
+      <edge source="52" target="56" id="238" weight="1" />
+      <edge source="52" target="59" id="239" weight="1" />
+      <edge source="52" target="53" id="240" weight="1" />
+      <edge source="52" target="54" id="241" weight="1" />
+      <edge source="52" target="55" id="242" weight="1" />
+      <edge source="53" target="54" id="243" weight="1" />
+      <edge source="53" target="55" id="244" weight="1" />
+      <edge source="53" target="56" id="245" weight="1" />
+      <edge source="53" target="59" id="246" weight="1" />
+      <edge source="54" target="55" id="247" weight="1" />
+      <edge source="54" target="56" id="248" weight="1" />
+      <edge source="54" target="59" id="249" weight="1" />
+      <edge source="55" target="56" id="250" weight="1" />
+      <edge source="55" target="59" id="251" weight="1" />
+      <edge source="56" target="59" id="252" weight="1" />
+      <edge source="58" target="89" id="253" weight="1" />
+      <edge source="58" target="80" id="254" weight="1" />
+      <edge source="60" target="87" id="255" weight="1" />
+      <edge source="62" target="77" id="256" weight="3" />
+      <edge source="63" target="64" id="257" weight="1" />
+      <edge source="63" target="93" id="258" weight="1" />
+      <edge source="64" target="78" id="259" weight="1" />
+      <edge source="65" target="85" id="260" weight="1" />
+      <edge source="67" target="76" id="261" weight="1" />
+      <edge source="70" target="71" id="262" weight="1" />
+      <edge source="73" target="88" id="263" weight="1" />
+      <edge source="80" target="89" id="264" weight="1" />
+      <edge source="82" target="84" id="265" weight="1" />
+      <edge source="82" target="86" id="266" weight="1" />
+      <edge source="82" target="85" id="267" weight="3" />
+      <edge source="84" target="86" id="268" weight="1" />
+      <edge source="84" target="85" id="269" weight="1" />
+      <edge source="85" target="86" id="270" weight="1" />
+    </edges>
+  </graph>
+</gexf>
