@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2023-11-27">
-    <creator>NetworkX 2.7.1</creator>
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes mode="static" class="node">
@@ -20,12 +20,12 @@
       </node>
       <node id="2" label="ANCHORMAN">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="3" label="ANNOUNCER">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="4" label="ANOTHER DAY">
@@ -35,12 +35,12 @@
       </node>
       <node id="5" label="ASSISTANT COACH">
         <attvalues>
-          <attvalue for="0" value="4" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="6" label="BERT">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="7" label="BILLY">
@@ -60,7 +60,7 @@
       </node>
       <node id="10" label="BOB HOPE">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="11" label="BOY">
@@ -85,7 +85,7 @@
       </node>
       <node id="15" label="BUBBA">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="16" label="BUS DRIVER">
@@ -105,17 +105,17 @@
       </node>
       <node id="19" label="CARLA">
         <attvalues>
-          <attvalue for="0" value="9" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="20" label="CHET HUNTLEY">
         <attvalues>
-          <attvalue for="0" value="4" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="21" label="DALLAS">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="22" label="DEAN">
@@ -130,12 +130,12 @@
       </node>
       <node id="24" label="DICK CLARK">
         <attvalues>
-          <attvalue for="0" value="9" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="25" label="DJ">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="26" label="DOCTOR">
@@ -150,12 +150,12 @@
       </node>
       <node id="28" label="DRIVER">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="29" label="EARL">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="9" />
         </attvalues>
       </node>
       <node id="30" label="ELDERLY WOMAN">
@@ -175,12 +175,12 @@
       </node>
       <node id="33" label="ERNIE">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="34" label="FOOTBALL COACH">
         <attvalues>
-          <attvalue for="0" value="4" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="35" label="FORREST">
@@ -190,17 +190,17 @@
       </node>
       <node id="36" label="FORREST JR">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="37" label="GIRL">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="38" label="GOVERNOR WALLACE">
         <attvalues>
-          <attvalue for="0" value="4" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="39" label="HILARY">
@@ -230,42 +230,42 @@
       </node>
       <node id="44" label="KATZENBACH">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="9" />
         </attvalues>
       </node>
       <node id="45" label="LENORE">
         <attvalues>
-          <attvalue for="0" value="9" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="46" label="LITTLE BOY">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="47" label="LOUISE">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="48" label="LT DAN">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="49" label="LYNN MARIE">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="4" />
         </attvalues>
       </node>
       <node id="50" label="MALE NURSE">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="51" label="MAN">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="52" label="MAN #">
@@ -310,7 +310,7 @@
       </node>
       <node id="60" label="MINISTER">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="61" label="MRS BLUE">
@@ -355,7 +355,7 @@
       </node>
       <node id="69" label="OLDER BOY">
         <attvalues>
-          <attvalue for="0" value="4" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="70" label="OLDER BOY #1">
@@ -380,7 +380,7 @@
       </node>
       <node id="74" label="PRESIDENT JOHNSON">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="2" />
         </attvalues>
       </node>
       <node id="75" label="PRESIDENT KENNEDY">
@@ -420,7 +420,7 @@
       </node>
       <node id="82" label="SGT SIMS">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="83" label="SLOW MOTION">
@@ -430,22 +430,22 @@
       </node>
       <node id="84" label="SOLDIER">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="85" label="SONG">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="86" label="STRONGARM">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </node>
       <node id="87" label="SUSAN">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="0" />
         </attvalues>
       </node>
       <node id="88" label="VET">
@@ -470,7 +470,7 @@
       </node>
       <node id="92" label="YOUNG HIPPIE">
         <attvalues>
-          <attvalue for="0" value="0" />
+          <attvalue for="0" value="1" />
         </attvalues>
       </node>
       <node id="93" label="YOUNG MAN">
